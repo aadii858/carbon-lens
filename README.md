@@ -15,7 +15,7 @@ An AI-powered environmental tracking application that uses computer vision to ca
 ## 👨‍💻 My Contribution
 
 While this was a collaborative effort by **Team Dev Crew**, my specific focus was on:
-* Integrated the Gemini 1.5 Flash API to handle image recognition.
+* Integrated the Gemini 2.5 Flash API to handle image recognition.
 * Built the Firebase backend structure to store user scores in real-time.
 * Optimized the Flutter UI for the "AR Lens" mode.
 
