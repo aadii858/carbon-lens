@@ -46,7 +46,7 @@ Climate change is abstract. Consumers buy products without seeing the **"Carbon 
 ## 🚀 Key Features
 
 ### 1. 📷 Gemini-Powered Scanner
-Using **Gemini 1.5 Flash**, the app analyzes photos of food, objects, or waste.
+Using **Gemini 2.5 Flash**, the app analyzes photos of food, objects, or waste.
 * **Input:** Real-time camera feed.
 * **Process:** Identifies objects (e.g., "Plastic Bottle") and estimates Carbon Footprint score (0-100).
 * **Output:** Suggests immediate eco-friendly alternatives.
