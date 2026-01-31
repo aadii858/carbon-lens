@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "312487021634",
+    "project_id": "carbon-shadow-tracker-db297",
+    "storage_bucket": "carbon-shadow-tracker-db297.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312487021634:android:c1fb41ae10ebc597a831db",
+        "android_client_info": {
+          "package_name": "com.example.carbonshadowtracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOOxPiTgyyIb3aeiZyvW272Jid_dS7Hyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
